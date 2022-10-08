@@ -4,3 +4,5 @@ zmiana inny komputer
 
 zmiana dokonana w vs code
 zmiana pora vsc
+
+inna zmiana w vs code
