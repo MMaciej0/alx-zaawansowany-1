@@ -3,4 +3,4 @@ i znowu cos piszę
 zmiana inny komputer
 
 zmiana dokonana w vs code
-zmiana pora vsc
+zmiana poza vsc w innym pliku
