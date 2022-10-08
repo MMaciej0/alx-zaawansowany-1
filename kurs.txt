@@ -1,3 +1,5 @@
 cos tam sobie piszę
 i znowu cos piszę
 zmiana inny komputer
+
+zmiana dokonana w vs code
