@@ -6,3 +6,4 @@ zmiana dokonana w vs code
 zmiana pora vsc
 
 inna zmiana w vs code
+zmiana poza vsc w innym pliku
